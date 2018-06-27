@@ -2,8 +2,6 @@
 
 Learn_Machine_Learning_in_3_Months
 
-This is the Curriculum for "Learn Machine Learning in 3 Months" this video by Siraj Raval on Youtube
-
 Month 1
 
 Week 1 Linear Algebra
